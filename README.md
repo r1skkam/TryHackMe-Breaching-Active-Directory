@@ -11,18 +11,24 @@
 
 
 ## Task 3 NTLM Authenticated Services
+[Download Task Files](https://github.com/r1skkam/TryHackMe-Breaching-Active-Directory/blob/main/passwordsprayer.zip)
+
 
 
 ## Task 4 LDAP Bind Credentials
 
 
 ## Task 5 Authentication Relays
+[Download Task Files](https://github.com/r1skkam/TryHackMe-Breaching-Active-Directory/blob/main/passwordlist.txt)
+
 
 
 ## Task 6 Microsoft Deployment Toolkit
 
 
 ## Task 7 Configuration Files
+[Download Task Files](https://github.com/r1skkam/TryHackMe-Breaching-Active-Directory/blob/main/mcafeesitelistpwddecryption.zip)
+
 
 
 ## Task 8 Conclusion
